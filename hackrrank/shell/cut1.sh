@@ -1,3 +1,3 @@
 #!/bin/bash
-read t
-cut -c3 "$t"  # cut1.txt
+# echo "$(cut -c3 /dev/stdin)"
+cut -c3
