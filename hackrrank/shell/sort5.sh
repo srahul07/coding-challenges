@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -t $'\t' -k 2r
+sort -t $'\t' -k2rn -k1r
